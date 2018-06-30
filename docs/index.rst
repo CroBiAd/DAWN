@@ -3,8 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to DAWN's documentation!
-================================
+DAWN: Diversity Among Wheat geNomes
+===================================
+
+DAWN provides access to a variety of public wheat data sets in the context of the International Wheat Genome Sequencing Consortium's (IWGSC)
+RefSeq v1.0 genome assembly. This is achieved by pre-processing the data and making it available through a JBrowse genome browser.
+
+Resources
+---------
+
+* Genome browser: http://crobiad.agwine.adelaide.edu.au/dawn/
+* Coordinate converter: http://crobiad.agwine.adelaide.edu.au/dawn/coord/
+* figshare collection: https://doi.org/10.4225/55/5a76e03723567
 
 .. toctree::
    :maxdepth: 2
