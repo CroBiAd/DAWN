@@ -16,7 +16,7 @@ RefSeq v1.0 genome assembly. This is achieved by pre-processing the data and mak
 Resources
 ---------
 
-* DAWN genome browser: http://crobiad.agwine.adelaide.edu.au/dawn/
+* DAWN: http://crobiad.agwine.adelaide.edu.au/dawn/
 * Coordinate converter: http://crobiad.agwine.adelaide.edu.au/dawn/coord/
 * figshare collection: https://doi.org/10.4225/55/5a76e03723567
 
