@@ -9,10 +9,6 @@ DAWN: Diversity Among Wheat geNomes
 DAWN provides access to a variety of public wheat data sets in the context of the International Wheat Genome Sequencing Consortium's (IWGSC)
 RefSeq v1.0 genome assembly. This is achieved by pre-processing the data and making it available through a JBrowse genome browser.
 
-.. image:: https://readthedocs.org/projects/dawn-wheat/badge/?version=latest
-   :target: https://dawn-wheat.readthedocs.io/en/latest/?badge=latest
-   :alt: Documentation Status
-
 Resources
 ---------
 
