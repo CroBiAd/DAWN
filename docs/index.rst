@@ -13,8 +13,9 @@ Resources
 ---------
 
 * DAWN: http://crobiad.agwine.adelaide.edu.au/dawn/
+* Help/Bug Report: https://github.com/CroBiAd/DAWN/issues/new
 * Coordinate converter: http://crobiad.agwine.adelaide.edu.au/dawn/coord/
-* figshare collection: https://doi.org/10.4225/55/5a76e03723567
+* Open Data at figshare: https://doi.org/10.4225/55/5a76e03723567
 
 .. toctree::
    :maxdepth: 2
